@@ -1,4 +1,4 @@
-# AngularTourOfHeroes
+# AngularTourOfHeroes - Completed tutorial from https://angular.io/tutorial
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
